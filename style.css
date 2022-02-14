@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.container-my-header {
+  display: flex;
+  height: 500px;
+  margin-top: 60px;
+  justify-content: center;
+  border: 1px solid red; /* debugging */
+}
+
+.my-container {
+  display: flex;
+  align-items: center;
+  border: 1px solid black; /* debugging */
+}
