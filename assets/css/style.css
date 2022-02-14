@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.container-navbar {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.my-navbar {
+    display: flex;
+    height: 60px;
+    width: 1100px;
+    justify-content: center;
+    margin: 10px;
+    position: fixed;
+}
+
+#link-style,
+#link-style:visited {
+    color: rgba(37, 37, 37, 0.651);
+    font-family: Helvetica, Arial, sans-serif;
+    font-style: oblique;
+    font-size: large;
+    font-weight: bolder;
+    margin: 0px 10px 0px 10px;
+}
+
+#link-style:active,
+#link-style:hover {
+    color: rgb(8, 138, 127);
+}
+
+
+/*PROVA CSS*/
+h1 {
+    color: red;
+}
