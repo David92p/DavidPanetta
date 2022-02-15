@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
 
-.container-my-header {
+.my-container-header {
   display: flex;
   height: 500px;
   margin-top: 60px;
@@ -12,8 +12,3 @@
   border: 1px solid red; /* debugging */
 }
 
-.my-container {
-  display: flex;
-  align-items: center;
-  border: 1px solid black; /* debugging */
-}
