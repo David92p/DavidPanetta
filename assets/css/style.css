@@ -97,7 +97,85 @@
     font-size: large;
 }
 
+/* Style Content Contact */
+
+.my-header-contact {
+    text-align: center;
+}
+
+.my-content-form {
+    background-color: #F6F7F8;
+    border: 3px solid rgb(8, 138, 127);
+    border-radius: 10px;
+    
+    width: 60%;
+    padding: 50px;
+    }
+
+.my-form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-size: 20px;
+    }
+  
+.my-form input[type='text'],
+.my-form input[type='email'] {
+    background-color: #FFFFFF;
+    border: 1px solid #D6D9DC;
+    border-radius: 3px;
+    width: 100%;
+    padding: 7px;
+    margin: 10px;
+    font-size: 16px;
+    }
+
+.my-form textarea {
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 16px;
+    background-color: #FFFFFF;
+    border: 1px solid #D6D9DC;
+    border-radius: 3px;
+      
+    min-height: 200px;
+    margin: 10px 10px 0 10px;
+    padding: 10px;
+    resize: none;
+    }
+
+.my-form select {
+    width: 100%;
+    margin-left: 10px;
+    border: 1px solid #D6D9DC;
+    padding: 5px;
+    font-size: 20px;            /* This won't work in Chrome or Safari */
+    -webkit-appearance: none;
+    }
+
+.my-form .instructions {
+    color: #999999;
+    font-size: 14px;
+    margin: 10px 0 10px 0;
+    padding-left: 10px;
+    }
+
+.my-form .checkbox-label {
+        margin-bottom: 10px;
+      }
+
+.my-form label {
+    margin: 10px 0 10px 10px
+  }
+
+.my-button-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+
 .my-border {
-    border: 1px solid rgb(255, 0, 0);
+    border: 10px solid rgb(0, 0, 0);
 }
 
