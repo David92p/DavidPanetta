@@ -103,31 +103,44 @@
     text-align: center;
 }
 
-.my-content-form {
+
+
+.my-border {
+    border: 5px solid rgb(2, 2, 2);
+}
+
+.my-container-form{
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    align-items: center;
     background-color: #F6F7F8;
-    border: 3px solid rgb(8, 138, 127);
-    border-radius: 10px;
-    
-    width: 60%;
-    padding: 50px;
-    }
+    border: 2px solid rgb(8, 138, 127);
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
 
 .my-form {
     display: flex;
-    justify-content: center;
     flex-direction: column;
-    flex-wrap: wrap;
     font-size: 20px;
+    border-radius: 10px;
+    width: 100%;
+    margin: 10px;
+}
+
+.my-form label {
+    font-size: 20px;
+    margin: 10px 0 10px 0px;
     }
-  
+
 .my-form input[type='text'],
 .my-form input[type='email'] {
     background-color: #FFFFFF;
     border: 1px solid #D6D9DC;
     border-radius: 3px;
-    width: 100%;
-    padding: 7px;
-    margin: 10px;
+    padding: 10px;
     font-size: 16px;
     }
 
@@ -139,43 +152,20 @@
     border-radius: 3px;
       
     min-height: 200px;
-    margin: 10px 10px 0 10px;
     padding: 10px;
     resize: none;
     }
 
 .my-form select {
     width: 100%;
-    margin-left: 10px;
+    margin-right: 50px;
     border: 1px solid #D6D9DC;
     padding: 5px;
     font-size: 20px;            /* This won't work in Chrome or Safari */
-    -webkit-appearance: none;
     }
 
-.my-form .instructions {
-    color: #999999;
-    font-size: 14px;
-    margin: 10px 0 10px 0;
-    padding-left: 10px;
-    }
-
-.my-form .checkbox-label {
-        margin-bottom: 10px;
-      }
-
-.my-form label {
-    margin: 10px 0 10px 10px
-  }
-
-.my-button-container {
+.my-container-button {
     display: flex;
-    justify-content: center;
+    justify-content: left;
+    margin: 10px 0 10px 0;
 }
-
-
-
-.my-border {
-    border: 10px solid rgb(0, 0, 0);
-}
-
