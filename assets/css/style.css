@@ -71,6 +71,15 @@
     font-size: 20px;
 }
 
+/* Style Content Home */
+
+.my-content-home {
+    display: flex;
+    height: 150px;
+    align-items:flex-end;
+    padding-bottom: 30px;
+}
+
 /* Style Header About */
 
 .container-my-about-header {
