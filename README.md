@@ -19,7 +19,7 @@
 
 
 # Precisazioni, ringraziamenti e saluti :v:
-### Il sito è solo l'inizio del mio percorso come front-end developer, anche se le conoscenze informatiche di base erano già in mio possesso ci tengo a ringraziare <a href="https://www.start2impact.it/" target="_blank"> Start2Impact</a> per avermi dato la possibilità di approfondirle.:star:
+### Il sito è solo l'inizio del mio percorso come front-end developer, anche se le conoscenze informatiche di base erano già in mio possesso ci tengo a ringraziare <a href="https://www.start2impact.it/" target="_blank"> Start2Impact</a> per avermi dato la possibilità di approfondirle. Il sito verrà aggiornato e soprattutto migliorato con l'incremento delle mie conoscenze:star:
 ### Il prossimo obiettivo sarà l'approfondimento di JavaScript in tutte le sue funzioni insieme alla community, con l'utilizzo dei framework che ne fanno parte. :fire:
 ### Il lavoro è stato pubblicato tramite git-hub page al seguente <a href="https://david92p.github.io/DavidPanetta/" target="_blank">link</a> :boom:
 
