@@ -18,6 +18,6 @@
 ### Questa sessione contiente un form di contatto in cui è possibile contattarmi tramite e-mail. 
 
 
-## Precisazioni, ringraziamenti e saluti :v:
+# Precisazioni, ringraziamenti e saluti :v:
 ### Il sito è solo l'inizio del mio percorso come front-end developer, anche se le conoscenze informatiche di base erano già in mio possesso ci tengo a ringraziare <a href="https://www.start2impact.it/" target="_blank"> Start2Impact</a> per avermi dato la possibilità di approfondirle.:star:
 ### Il prossimo obiettivo sarà l'approfondimento di JavaScript in tutte le sue funzioni insieme alla community, e all'utilizzo dei framework che ne fanno parte. :fire:
