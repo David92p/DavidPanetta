@@ -6,4 +6,13 @@
 #### Navbar e footer del sito sono condivisi in tutte le pagine :dart:
 
 ## :pushpin: Homepage
-### La home del sito contiene una panoramica 
+### La home del sito contiene una panoramica delle mie conoscenze generiche.
+
+## :pushpin: About 
+### Questa sezione cerca di descrivere il mio percorso dall'inizio, i miei interessi , i miei obiettivi e altro su di me.
+
+## :pushpin: Resume
+### Quì troviamo il mio curriculum generico in cui ho cercato di mettere in primo piano i miei studi e le mie passioni verso la programmazione
+
+## :pushpin: Contact
+### Questa sessione contiente un form di contatto in cui è possibile contattarmi tramite e-mail. 
