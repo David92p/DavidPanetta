@@ -16,3 +16,6 @@
 
 ## :pushpin: Contact
 ### Questa sessione contiente un form di contatto in cui è possibile contattarmi tramite e-mail. 
+
+
+## Precisazioni e saluti
