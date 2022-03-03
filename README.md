@@ -1,7 +1,7 @@
 ### :grey_exclamation: Ciao a tutti, di seguito una descrizione di un progetto in cui cerco di utilizzare le mie capacità di front-end per creare un piccolo sito di presentazione :exclamation:
 
 #### Il sito è stato creato da me attraverso i miei studi di html, css e naturalmente bootstrap.
-#### Esso contiene un form di contatto che utilizza JavaScript, liguaggio che attualmente sto studiando attraverso la community di<a href="https://talent.start2impact.it/profile/davide-panetta" target="_blank"> S2I</a>
+#### Esso contiene un form di contatto che utilizza JavaScript, linguaggio che attualmente sto studiando attraverso la community di<a href="https://talent.start2impact.it/profile/davide-panetta" target="_blank"> S2I</a>
 
 #### Navbar e footer del sito sono condivisi in tutte le pagine :dart:
 
@@ -15,7 +15,7 @@
 ### Quì troviamo il mio curriculum generico in cui ho cercato di mettere in primo piano i miei studi e le mie passioni verso la programmazione
 
 ## :pushpin: Contact
-### Questa sessione contiente un form di contatto in cui è possibile contattarmi tramite e-mail. 
+### Questa sessione contiene un form di contatto in cui è possibile contattarmi tramite e-mail. 
 
 
 # Precisazioni, ringraziamenti e saluti :v:
