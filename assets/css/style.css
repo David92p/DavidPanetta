@@ -40,6 +40,7 @@
     display: flex;
     justify-content: center;
     flex: nowrap;
+    background-color: rgb(54, 54, 54);
 }
 
 .my-text-footer {
@@ -47,6 +48,14 @@
     text-align: center;
     margin: 30px;
     font-size: small;
+    background-color: rgb(54, 54, 54);
+    color: white;
+}
+
+.my-color-footer {
+    background-color: rgb(54, 54, 54);
+    padding-bottom: 0;
+    border: 1px solid rgb(54, 54, 54);
 }
 
 /* Style Header Home */
